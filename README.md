@@ -55,3 +55,4 @@ any task you can imagine.
 - [Guido van Rossum: The Early Years of Python - computer.org](https://www.computer.org/csdl/magazine/co/2015/02/mco2015020007/13rRUy3gmYB)
 
 [python docs]: https://docs.python.org/3/
+# python-p3-conclusion-to-python-fundamentals
